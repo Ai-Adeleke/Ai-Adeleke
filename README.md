@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Ai-Adeleke
-- 👀 I’m interested in web development and artificial intelligence
+- 👀 I’m interested in front-end development 
 - 🌱 I’m currently learning html & css
 - 💞️ I’m looking to collaborate on all front-end devlopment and basic artifical intelligence projects 
 - 📫 How to reach me on twitter: https://twitter.com/AiAdeleke0
-                         whatsapp: +2349067579726
+                         whatsapp: +2348001464535
                          instagram: aiadeleke_
                          facebook: https://www.facebook.com/profile.php?id=100070200039150
 
