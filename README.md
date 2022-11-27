@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ai-Adeleke
+- 👋 Hi, I’m Adeleke Isiaq
 - 👀 I’m interested in front-end development 
-- 🌱 I’m currently learning html & css
-- 💞️ I’m looking to collaborate on all front-end devlopment and basic artifical intelligence projects 
+- 🌱 I’m currently learning  javascript 
+- 💞️ I’m looking to collaborate on all front-end devlopment 
 - 📫 How to reach me on twitter: https://twitter.com/AiAdeleke_
                          whatsapp: +2348101464535
                          instagram: aiaadeleke_
