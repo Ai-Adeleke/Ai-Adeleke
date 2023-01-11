@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning  javascript 
 - 💞️ I’m looking to collaborate on all front-end devlopment 
 - 📫 How to reach me on twitter: https://twitter.com/AiAdeleke_
-                         whatsapp: +2348101464535
+                         whatsapp: +2348145462008
                          instagram: aiaadeleke_
                          facebook: https://www.facebook.com/profile.php?id=100070200039150
 
